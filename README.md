@@ -93,16 +93,16 @@ It also assigns one of four priority levels:
 
 ## ✨ Features
 
-- 🤖 Local AI-powered email analysis
-- 🎣 Phishing identification
-- 🚨 Security priority classification
-- 🧠 Human-readable explanation of why an email may be suspicious
-- 🛡️ Recommended security actions
-- ✉️ Suggested response generation
-- 📊 CSV logging
-- 📦 Structured JSON output
-- 🔒 Local AI processing with Ollama
-- 👤 Human review remains part of the decision process
+- Local AI-powered email analysis
+- Phishing identification
+- Security priority classification
+- Human-readable explanation of why an email may be suspicious
+- Recommended security actions
+- Suggested response generation
+- CSV logging
+- Structured JSON output
+- Local AI processing with Ollama
+- Human review remains part of the decision process
 
 ---
 
