@@ -1,5 +1,7 @@
 # 🛡️ LSDR Security AI Triage
 
+![LSDR Security AI Triage Interface](assets/lsdr_triage_emails.png)
+
 ### AI-assisted email security analysis for everyday users
 
 **LSDR Security AI Triage** is a personal cybersecurity and AI project designed to help people who may not have a technical or cybersecurity background better understand suspicious emails before interacting with them.
