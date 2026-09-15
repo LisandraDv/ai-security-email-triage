@@ -1,6 +1,6 @@
 # 🛡️ AI-Powered Security Email Triage
 
-A personal portfolio project that uses a **local AI model** to classify security-related emails, assign a priority, recommend a next action, and draft a suggested response.
+A personal project that uses a **local AI model** to classify security-related emails, assign a priority, recommend a next action, and draft a suggested response.
 
 The project is intentionally designed to run from a **personal GitHub repository** without using a company Microsoft 365 tenant, corporate mailbox, or employer credentials.
 
